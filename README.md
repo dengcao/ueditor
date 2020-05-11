@@ -44,5 +44,7 @@ GitHub：https://github.com/cao-zha/ueditor
 
 ### 接口预览
 
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0511/210952_13094c16_7397417.png "调用上传接口")
+
 
 
