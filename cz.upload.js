@@ -7,7 +7,6 @@
 */
 var _editor;
 $(function(){
-
 //重新实例化一个编辑器，防止在上面的editor编辑器中显示上传的图片或者文件
 _editor = UE.getEditor('upload_ue');
 _editor.ready(function () {
