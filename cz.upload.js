@@ -24,7 +24,7 @@ $("#preview").attr("src", arg[0].src);
 })
 //侦听文件上传，取上传文件列表中第一个上传的文件的路径
 _editor.addListener('afterUpfile', function (t, arg) {
-$("#file").attr("value", _editor.options.filePath + arg[0].url);
+$("#file").attr("value", arg[0].url);
 })
 });
 }); 
